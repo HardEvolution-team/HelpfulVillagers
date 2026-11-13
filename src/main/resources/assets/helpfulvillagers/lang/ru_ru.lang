@@ -1,0 +1,82 @@
+entity.helpfulvillagers.villager.name=Полезный житель
+entity.helpfulvillagers.bobber.name=Поплавок жителя
+container.helpfulvillagers.villager=Житель
+
+helpfulvillagers.profession.villager=Житель
+helpfulvillagers.profession.lumberjack=Лесоруб
+helpfulvillagers.profession.miner=Шахтёр
+helpfulvillagers.profession.farmer=Фермер
+helpfulvillagers.profession.soldier=Солдат
+helpfulvillagers.profession.archer=Лучник
+helpfulvillagers.profession.merchant=Торговец
+helpfulvillagers.profession.fisherman=Рыбак
+helpfulvillagers.profession.rancher=Скотовод
+helpfulvillagers.name.named=%s (%s)
+
+helpfulvillagers.gui.follow=За мной
+helpfulvillagers.gui.stop_following=Стой здесь
+helpfulvillagers.gui.inventory=Инвентарь
+helpfulvillagers.gui.change_profession=Сменить профессию
+helpfulvillagers.gui.nickname=Дать имя
+helpfulvillagers.gui.guard=Охранять жителя
+helpfulvillagers.gui.barter=Торговля
+helpfulvillagers.gui.crafting=Крафт
+helpfulvillagers.gui.choose_profession=Выберите профессию
+helpfulvillagers.gui.locked=Постройте гильдию, чтобы открыть
+helpfulvillagers.gui.locked_hint.villager=
+helpfulvillagers.gui.locked_hint.lumberjack=Рамка с топором у деревянной двери
+helpfulvillagers.gui.locked_hint.miner=Рамка с киркой у деревянной двери
+helpfulvillagers.gui.locked_hint.farmer=Рамка с мотыгой у деревянной двери
+helpfulvillagers.gui.locked_hint.soldier=Рамка с мечом у деревянной двери
+helpfulvillagers.gui.locked_hint.archer=Рамка с луком у деревянной двери
+helpfulvillagers.gui.locked_hint.merchant=Рамка с изумрудом у деревянной двери
+helpfulvillagers.gui.locked_hint.fisherman=Рамка с удочкой у деревянной двери
+helpfulvillagers.gui.locked_hint.rancher=Рамка с поводком у деревянной двери (рядом загон из забора)
+helpfulvillagers.gui.equipment=Инструмент и броня
+helpfulvillagers.gui.queue_item=В очередь
+helpfulvillagers.gui.crafting_now=Сейчас крафтится
+helpfulvillagers.gui.nothing_craftable=Нечего крафтить
+helpfulvillagers.gui.teach=Научить рецепту
+helpfulvillagers.gui.stats=Очередь крафта деревни
+helpfulvillagers.gui.teach_button=Научить
+helpfulvillagers.gui.reset_recipes=Сбросить
+helpfulvillagers.gui.remove=Убрать
+helpfulvillagers.gui.queue_title=Очередь крафта деревни:
+helpfulvillagers.gui.needed=Нужно материалов:
+helpfulvillagers.gui.missing=Не хватает для заказа:
+helpfulvillagers.gui.collected=Собрано материалов:
+helpfulvillagers.gui.by_player=Заказал игрок %s
+helpfulvillagers.gui.by_villager=Заказал %s
+
+helpfulvillagers.teach.no_recipe=Это не рецепт
+helpfulvillagers.teach.known=Уже знает
+helpfulvillagers.teach.added=Рецепт выучен
+helpfulvillagers.teach.reset=Выученные рецепты забыты
+
+helpfulvillagers.barter.credits=Кредиты: $%s
+helpfulvillagers.barter.buy=Купить
+helpfulvillagers.barter.sell=Продать
+helpfulvillagers.barter.deposit=Внести
+helpfulvillagers.barter.withdraw=Снять
+helpfulvillagers.barter.price=Цена: $%s за шт.
+helpfulvillagers.barter.no_price=Нет цены
+helpfulvillagers.barter.no_credits=Недостаточно кредитов.
+helpfulvillagers.barter.calculating=Деревня считает цены...
+helpfulvillagers.barter.tab_buy=Покупка
+helpfulvillagers.barter.tab_sell=Продажа / счёт
+helpfulvillagers.barter.emerald_hint=Изумруды вносятся на вкладке продажи: 1 изумруд = $%s
+
+helpfulvillagers.msg.guarding=%s теперь охраняет: %s
+helpfulvillagers.msg.guard_cancelled=Назначение охраны отменено.
+helpfulvillagers.msg.pick_ward=Нажмите ПКМ по жителю, которого будет охранять %s.
+helpfulvillagers.msg.new_job=%s готов работать.
+helpfulvillagers.msg.locked=Для этой профессии в деревне нужна гильдия.
+helpfulvillagers.msg.queued=В очереди: %s x %s.
+helpfulvillagers.msg.order_ready=Готово: %s x %s. %s положил это в сундук гильдии на %s, %s, %s.
+helpfulvillagers.msg.birth=У жителей %s и %s родился ребёнок!
+helpfulvillagers.msg.twins=У жителей %s и %s родились двойняшки!
+helpfulvillagers.msg.triplets=У жителей %s и %s родились тройняшки!
+helpfulvillagers.msg.at= (на %s, %s, %s)
+
+helpfulvillagers.command.usage=/villagermessages <death|birth|all> <off|on|verbose>
+helpfulvillagers.command.set=Сообщения жителей (%s): %s

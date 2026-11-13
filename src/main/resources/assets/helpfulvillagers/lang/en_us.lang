@@ -1,0 +1,82 @@
+entity.helpfulvillagers.villager.name=Helpful Villager
+entity.helpfulvillagers.bobber.name=Villager Bobber
+container.helpfulvillagers.villager=Villager
+
+helpfulvillagers.profession.villager=Villager
+helpfulvillagers.profession.lumberjack=Lumberjack
+helpfulvillagers.profession.miner=Miner
+helpfulvillagers.profession.farmer=Farmer
+helpfulvillagers.profession.soldier=Soldier
+helpfulvillagers.profession.archer=Archer
+helpfulvillagers.profession.merchant=Merchant
+helpfulvillagers.profession.fisherman=Fisherman
+helpfulvillagers.profession.rancher=Rancher
+helpfulvillagers.name.named=%s the %s
+
+helpfulvillagers.gui.follow=Follow Me
+helpfulvillagers.gui.stop_following=Stop Following
+helpfulvillagers.gui.inventory=Inventory
+helpfulvillagers.gui.change_profession=Change Profession
+helpfulvillagers.gui.nickname=Give Nickname
+helpfulvillagers.gui.guard=Guard Villager
+helpfulvillagers.gui.barter=Barter
+helpfulvillagers.gui.crafting=Crafting
+helpfulvillagers.gui.choose_profession=Choose a profession
+helpfulvillagers.gui.locked=Build a guild hall to unlock
+helpfulvillagers.gui.locked_hint.villager=
+helpfulvillagers.gui.locked_hint.lumberjack=Item frame with an axe next to a wooden door
+helpfulvillagers.gui.locked_hint.miner=Item frame with a pickaxe next to a wooden door
+helpfulvillagers.gui.locked_hint.farmer=Item frame with a hoe next to a wooden door
+helpfulvillagers.gui.locked_hint.soldier=Item frame with a sword next to a wooden door
+helpfulvillagers.gui.locked_hint.archer=Item frame with a bow next to a wooden door
+helpfulvillagers.gui.locked_hint.merchant=Item frame with an emerald next to a wooden door
+helpfulvillagers.gui.locked_hint.fisherman=Item frame with a fishing rod next to a wooden door
+helpfulvillagers.gui.locked_hint.rancher=Item frame with a lead next to a wooden door (fence a pasture beside it)
+helpfulvillagers.gui.equipment=Tool & armor
+helpfulvillagers.gui.queue_item=Queue Item
+helpfulvillagers.gui.crafting_now=Crafting now
+helpfulvillagers.gui.nothing_craftable=Nothing to craft
+helpfulvillagers.gui.teach=Teach Recipe
+helpfulvillagers.gui.stats=Village craft queue
+helpfulvillagers.gui.teach_button=Teach Recipe
+helpfulvillagers.gui.reset_recipes=Reset Recipes
+helpfulvillagers.gui.remove=Remove
+helpfulvillagers.gui.queue_title=Village Craft Queue:
+helpfulvillagers.gui.needed=Materials Needed:
+helpfulvillagers.gui.missing=Missing For This Order:
+helpfulvillagers.gui.collected=Materials Collected:
+helpfulvillagers.gui.by_player=Requested by player %s
+helpfulvillagers.gui.by_villager=Requested by %s
+
+helpfulvillagers.teach.no_recipe=That is not a recipe
+helpfulvillagers.teach.known=Already known
+helpfulvillagers.teach.added=Recipe learned
+helpfulvillagers.teach.reset=Taught recipes forgotten
+
+helpfulvillagers.barter.credits=Credits: $%s
+helpfulvillagers.barter.buy=Buy
+helpfulvillagers.barter.sell=Sell
+helpfulvillagers.barter.deposit=Deposit
+helpfulvillagers.barter.withdraw=Withdraw
+helpfulvillagers.barter.price=Price: $%s each
+helpfulvillagers.barter.no_price=No price
+helpfulvillagers.barter.no_credits=Not enough credits.
+helpfulvillagers.barter.calculating=Calculating village prices...
+helpfulvillagers.barter.tab_buy=Buy items
+helpfulvillagers.barter.tab_sell=Sell items / bank
+helpfulvillagers.barter.emerald_hint=Deposit emeralds on the Sell tab: 1 emerald = $%s
+
+helpfulvillagers.msg.guarding=%s is now guarding %s
+helpfulvillagers.msg.guard_cancelled=Guard assignment cancelled.
+helpfulvillagers.msg.pick_ward=Right-click the villager %s should guard.
+helpfulvillagers.msg.new_job=%s is ready to work.
+helpfulvillagers.msg.locked=That profession needs a guild hall in this village.
+helpfulvillagers.msg.queued=Queued %s x %s.
+helpfulvillagers.msg.order_ready=Your %s x %s is ready: %s put it in the hall chest at %s, %s, %s.
+helpfulvillagers.msg.birth=%s and %s had a baby!
+helpfulvillagers.msg.twins=%s and %s had twins!
+helpfulvillagers.msg.triplets=%s and %s had triplets!
+helpfulvillagers.msg.at= (at %s, %s, %s)
+
+helpfulvillagers.command.usage=/villagermessages <death|birth|all> <off|on|verbose>
+helpfulvillagers.command.set=Villager %s messages: %s
